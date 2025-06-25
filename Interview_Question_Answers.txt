@@ -1,0 +1,29 @@
+1. What is encapsulation?
+Encapsulation is the concept of wrapping data (variables) and code (methods) into a single unit, i.e., a class. It helps in data hiding and abstraction.
+
+2. How to use an ArrayList?
+ArrayList is a dynamic array in Java. It allows adding, removing, and accessing elements using methods like add(), get(), remove(), etc.
+
+3. How to remove/update from ArrayList?
+You can remove using remove(index) or remove(object), and update using set(index, newValue).
+
+4. Difference between class and object?
+A class is a blueprint or template. An object is an instance of a class.
+
+5. How are classes related to encapsulation?
+Classes allow grouping related data and methods, and by making variables private and using getters/setters, we achieve encapsulation.
+
+6. What is an ArrayList in Java?
+ArrayList is a class in Java that implements the List interface. It is a resizable array that can grow or shrink dynamically.
+
+7. Difference between ArrayList and LinkedList?
+ArrayList is better for random access and stores elements in contiguous memory. LinkedList is better for frequent insertions/deletions but slower for access.
+
+8. What is the role of 'this' keyword?
+The 'this' keyword refers to the current object. It is used to differentiate between instance variables and method parameters.
+
+9. What are constructors?
+Constructors are special methods used to initialize objects. They have the same name as the class and no return type.
+
+10. Can we overload constructors and accessors?
+Yes. Constructors and accessors (getters/setters) can be overloaded by changing their parameter list.
