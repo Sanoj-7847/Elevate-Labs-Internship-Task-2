@@ -2,6 +2,7 @@
 
 This project is submitted as part of the Java Developer Internship - Task 2 (Elevate Labs).
 
+![Screenshot](Screenshot.png)
 
 ## 💡 Objective
 Create a CRUD system to manage student records using Java Classes, Collections, and basic console I/O.
